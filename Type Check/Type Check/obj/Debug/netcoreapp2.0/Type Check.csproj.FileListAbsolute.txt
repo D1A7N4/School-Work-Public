@@ -1,0 +1,11 @@
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\bin\Debug\netcoreapp2.0\Type Check.deps.json
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\bin\Debug\netcoreapp2.0\Type Check.runtimeconfig.json
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\bin\Debug\netcoreapp2.0\Type Check.runtimeconfig.dev.json
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\bin\Debug\netcoreapp2.0\Type Check.dll
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\bin\Debug\netcoreapp2.0\Type Check.pdb
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.csprojAssemblyReference.cache
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.csproj.CoreCompileInputs.cache
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.AssemblyInfoInputs.cache
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.AssemblyInfo.cs
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.dll
+W:\008. Computing\Student work\2019-2020\Y12\Daniel Seavers\Type Check\Type Check\obj\Debug\netcoreapp2.0\Type Check.pdb
