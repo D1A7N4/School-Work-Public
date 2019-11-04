@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\Type Check\\Type Check\\Type Check.csproj",
+      "projectUniqueName": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\GITHUB Public\\School-Work\\Type Check\\Type Check\\Type Check.csproj",
       "projectName": "Type Check",
-      "projectPath": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\Type Check\\Type Check\\Type Check.csproj",
+      "projectPath": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\GITHUB Public\\School-Work\\Type Check\\Type Check\\Type Check.csproj",
       "packagesPath": "C:\\Users\\14seaved\\.nuget\\packages\\",
-      "outputPath": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\Type Check\\Type Check\\obj\\",
+      "outputPath": "W:\\008. Computing\\Student work\\2019-2020\\Y12\\Daniel Seavers\\GITHUB Public\\School-Work\\Type Check\\Type Check\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
